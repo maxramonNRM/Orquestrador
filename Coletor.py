@@ -137,6 +137,8 @@ def obter_credenciais(df_info_usuarios, estado):
         "com_tela": linha["Roda em tela"],
         "anonimo": linha["Navegacao anonima"],
         "caminho_site": linha["Website"],
+        "licenca": linha["Licenca"],
+        "id_usuario": linha["IdUsuario"],
 
     }
 
