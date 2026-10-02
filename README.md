@@ -69,3 +69,7 @@ Python, Selenium, Pandas.
 - Agendamento automático das execuções.
 - Log estruturado das coletas e dos erros.
 - Testes automatizados para os módulos de validação.
+
+###### IMPORTANTE ######
+
+O código depende de uma base que tem informações de credenciais que cada um usa de acordo com a necessidade, e que não está dispónivel no Git. 
