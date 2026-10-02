@@ -72,4 +72,4 @@ Python, Selenium, Pandas.
 
 ###### IMPORTANTE ######
 
-O código depende de uma base que tem infomrações de credenciais que cada um usa de acordo com a necessidade, e que por não está dispónivel no Git. 
+O código depende de uma base que tem informações de credenciais que cada um usa de acordo com a necessidade, e que não está dispónivel no Git. 
